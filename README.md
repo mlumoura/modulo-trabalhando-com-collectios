@@ -1,0 +1,1 @@
+Ex. realizados durante o módulo Trabalhando com Collections
